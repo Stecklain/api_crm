@@ -1,0 +1,44 @@
+{
+  "clientes": [
+    {
+      "nombre": "Juan Manuel",
+      "empresa": "Accio SA",
+      "email": "juanmstecklain@gmail.com",
+      "telefono": "46233930",
+      "notas": "Games Development",
+      "id": 1
+    },
+    {
+      "nombre": "Karen",
+      "empresa": "Karen Diseño",
+      "email": "karen@karen.com",
+      "telefono": "1234555",
+      "notas": "Karen quiere cotizar toner",
+      "id": 2
+    },
+    {
+      "nombre": "Jorge Actualizado",
+      "empresa": "Jorge Construcciones",
+      "email": "jorge@jorge.cmo",
+      "telefono": "46653322",
+      "notas": "Jorge quiere cotizar pileta",
+      "id": 3
+    },
+    {
+      "nombre": "Claudia Schuster",
+      "empresa": "Claudia SA",
+      "email": "claudiaschuster7@gmail.com",
+      "telefono": "12313",
+      "notas": "Quiere un presupuesto.",
+      "id": 5
+    },
+    {
+      "nombre": "Edgar Act",
+      "empresa": "Codigo Con Juan",
+      "email": "correo@correo.com",
+      "telefono": "",
+      "notas": "El cliente solicita un servicio.",
+      "id": 6
+    }
+  ]
+}
